@@ -1,5 +1,6 @@
 {
   "name": "portfollio",
+  "homepage": "https://minmatth-magi.github.io/portfollio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
